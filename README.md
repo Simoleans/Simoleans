@@ -10,7 +10,21 @@
 <h3 align="center">Desarrollador Web (Backend) | Ingeniero en Informatica | Me encanta aprender </h3>
 
 
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+ <strong align="center"> Frontend </strong>
+  ...
+  
+</td>
 
+<td width="50%" align="center">
+<strong align="center"> Backend </strong>
+  ...
+  </td>
+</tr>
+</table>
 
 
 <table border="0" align="center">
@@ -29,7 +43,7 @@
 </td>
 
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=simoleans&theme=cobalt&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=simoleans&theme=cobalt&show_icons=true&count_private=true&hide=prs,issues,contribs" />
   <br></br>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simoleans&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
   
