@@ -10,11 +10,6 @@
 <h3 align="center">Desarrollador Web (Backend) | Ingeniero en Informatica | Me encanta aprender </h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoleans)](https://github.com/simoleans/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simoleans)](https://github.com/simoleans/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simoleans&repo=covid19-vzla)](https://github.com/simoleans/covid19-vzla)
 
 
 
@@ -22,17 +17,19 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="[https://github-readme-stats.vercel.app/api?username=simoleans&theme=cobalt&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=simoleans&theme=dark&hide=contribs,prs,issues)" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=simoleans&theme=dark&hide_border=true" />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simoleans&repo=covid19-vzla)](https://github.com/simoleans/covid19-vzla)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simoleans&repo=teraminer)](https://github.com/simoleans/teraminer)
+  
 
 
   
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simoleans&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=simoleans&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simoleans&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7"/>
   
   </td>
 </tr>
