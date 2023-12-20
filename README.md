@@ -20,6 +20,8 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simoleans&repo=covid19-vzla)](https://github.com/simoleans/covid19-vzla)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simoleans&repo=teraminer)](https://github.com/simoleans/teraminer)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simoleans&repo=svelte-tailwind)](https://github.com/simoleans/svelte-tailwind)
   
 
 
@@ -29,7 +31,7 @@
 <td width="50%" align="center">
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=simoleans&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simoleans&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simoleans&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
   
   </td>
 </tr>
