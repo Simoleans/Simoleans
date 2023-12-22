@@ -1,7 +1,8 @@
 ### Hi there 👋👋
 <hr>
 
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/3TDc2GK/banner-git-simoleans-compressed.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/BtZhPBw/banner-git-simoleans-1-1.png" height="175px"/></a>
+
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&random=false&width=435&lines=Hola%2C+soy+Fran)](https://git.io/typing-svg)
